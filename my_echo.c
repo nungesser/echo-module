@@ -78,7 +78,7 @@ module_init(my_echo_init);
 module_exit(my_echo_exit);
 
 
-MODULE_AUTHOR("remi.leveque@pm.me");
+MODULE_AUTHOR("remi.leveque(α)pm.me");
 MODULE_DESCRIPTION("simple echo module");
 MODULE_VERSION("1.0");
 MODULE_LICENSE("GPL");
